@@ -1,2 +1,2 @@
-# Python-Assignment-1
-Assignment No. 1 for "Certified Python Programming(Saylani)"
+# Python-Assignments
+Assignments for "Certified Python Programming(Saylani)" Online Course.
